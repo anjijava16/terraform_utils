@@ -2,6 +2,10 @@
 terraform_utils for IAC Infrastructure as Code
 
 
+# Certificate URL
+1. https://www.hashicorp.com/certification/terraform-associate
+
+
 ## Commands used in the Course
 
 ### initialize
