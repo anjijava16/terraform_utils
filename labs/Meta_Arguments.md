@@ -5,4 +5,6 @@
  4. provider: For a selecting a non -default provider configuration 
  5. lifecycle: Standard resource behvaior can be altered using special nested lifecyle block with in a resource block body 
  6. Provisioners and Connections 
- ** Ntote: A given resource or Module block cannot use both count and for_each 
+ 
+ ### Note
+ 1. A given resource or Module block cannot use both count and for_each 
