@@ -1,6 +1,10 @@
 # terraform_utils
 terraform_utils for IAC Infrastructure as Code
 
+# Labs
+1. https://github.com/ExamProCo/Terraform-Associate-Labs
+
+
 
 # Certificate URL
 1. https://www.hashicorp.com/certification/terraform-associate
