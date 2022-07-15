@@ -6,7 +6,6 @@ terraform_utils for IAC Infrastructure as Code
 
 ![image](https://user-images.githubusercontent.com/5849522/179147798-b6efa455-dc57-4282-8128-bac1517809ed.png)
 
-![image](https://user-images.githubusercontent.com/5849522/179147921-c8c623af-6919-4777-9c50-3739c21da23c.png)
 
 # Certificate URL
 1. https://www.hashicorp.com/certification/terraform-associate
