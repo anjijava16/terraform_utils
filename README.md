@@ -8,12 +8,6 @@ terraform_utils for IAC Infrastructure as Code
 
 ![image](https://user-images.githubusercontent.com/5849522/179147921-c8c623af-6919-4777-9c50-3739c21da23c.png)
 
-
-
-
-
-
-
 # Certificate URL
 1. https://www.hashicorp.com/certification/terraform-associate
 
@@ -52,16 +46,5 @@ terraform_utils for IAC Infrastructure as Code
 ### set avail_zone as custom tf environment variable - before apply
 
     export TF_VAR_avail_zone="eu-west-3a"
-
-
-
-## More Information: AWS Services and components we use or create with Terraform
-- Amazon EC2 - Virtual Server: https://aws.amazon.com/ec2
-- Amazon VPC - Your Virtual Private Network on AWS: https://aws.amazon.com/vpc
-- Subnet - Subnetwork, logical subdivision of IP network: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html
-- Internet Gateway - a VPC component: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
-- Security Group - Virtual Firewall: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
-- Route Table - Configuring Network Traffic: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
-- Amazon S3  - Simple Storage: https://aws.amazon.com/s3/ (Udemy Section 7: when configuring Remote State
 
 
