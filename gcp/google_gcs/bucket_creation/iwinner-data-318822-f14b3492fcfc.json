@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iwinner-data-318822",
+  "private_key_id": "f14b3492fcfc997a80519ac3e33a941615c61d44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCRym4/MqHMpG0p\nQeqXiqYecwbgx2CXSoHZqH5CTzLl4tzwIL3zQ6kKYfkrRKjG8aRUpb9Mab4ILEMA\nspx47PfA13SYzPG3y0VP8rb0LtHAt+dfngLqle6lzkHaC/vLUysQVhZ7OTvUIyEH\nRBHp9D52eGlYZVaEWcM1ASV92Ngt4PqxUf2bclstTwmS0xbSTXJly7LtnMJkcapp\nfntjCK7JybzDMLd5r5AFqeG+Pt39KGWTKXBRubUiO8fsqyAAIZZGwhQaeGncqWKV\nf21bg9P3x7VQifsIau8Edimrt2zJf9CakdfonSJNhLww/f5ND6jRmaEm/B5cQQKk\nswJLNT4XAgMBAAECggEAGC+9r4VeW11x8LTLTv3FBmst2m+pQiAtv6bY33ZVKtdC\nsSG1cZypeBv94uQ+ndar3REsVeh7Cs8RBJYdKGCjz53O7aSee0/hPVy2Znc3/CFm\nZLIJqNJb56z6tspjKP2wuMKXczTxDIYRbiuoTyhijnP2giA5xLZBkNMSXbjyUFXx\nD6acx0g5ePoVP86BeRzlGIxDMmoHveIfzTiQRgos6dlFFDA99EXq98HOOPYQD8sI\nYHO9M0giCTx+M/1uHG0CvFCFS+mzOufa5J7gqjD+cNCt3FzdzZ7fXnW25OTawgBD\nbFGUyzducbKKwlMkZbcwaSMdDxfrUXh9m+nQXMmwKQKBgQDHLu+Hs5/Dr8BYwgZW\nJARTh4sWTt9BbzTIjX0CUdnvv9YPtAZaE2Yv2y14Or5y2ERSkhZ9STyikT05mnCB\nuUO6lPN+6Jhnjr0fuA1RR5wNjaEMDlWucoSjNoFiN+aO58ea3azBGZLgNe05k5Bi\n4hBk8Wnc+Gg0aUlQH135KVuPmQKBgQC7YJSsXn4an4hN8zewvNQC67xQmUu9Qqi3\nii0RW5+T/C9jtCpxov2EhzDFs0rmFE0AWz1E4Jgqg/AHmu9OHnulP9cLelk9/Xcm\nYBgZiH/pgI1H3G9G71Vlfyuk1nddvOrPsGpj3dtT8tBZtSERFzU6kUjZf2YSlGan\ngPRZzBWJLwKBgF39IuBI/XGspDn9zFmngzcbNaGgNC8/V4vvX/bRQuKkBlHApGKq\n1sRsS2d5aNbugEbqUpxqC6e2m0psOvyrvG71zHStMwVi0JGAGyCohtXKaB01Qm8f\n8MDHfoQnVq9GZeUJB3TTKYCNUdSicjaG8C+Bz2+K9DkPGZ4qPwDM6Dy5AoGAevP5\nGtI2dUnRqzS5imOdyvzc6RZuOJaRFz64K/evUu/cONR0NXT6XghH3LK1pxwTGvTD\n03p83wkMbDEibmRaRikJ9yIlhSPZF3le1wJWzOXpzwm6ixVpN9ymytdgJEZe3kGo\nzjc6QG/If9T3Cbvs1a2X3ABY/kAazDc2H+ZnC0kCgYB8gdXpMJB0kDgQGGNy+TGL\n9NCcWLt2n1Q2typS5MHYajDqOI+pbbt+rkJA/66+9jtBo08ieuLfOMO4Buf4cWnX\n6ILpQ/h4b/jRTYgDkZ3KpEYit7ME800FO4S4nXWaBNdBkMEI8+5KnP7FiuIeQk0p\nbMiFvGppSMHhwTiWLP7Ofg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "iwinner-data-jobs@iwinner-data-318822.iam.gserviceaccount.com",
+  "client_id": "112882829689856796526",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iwinner-data-jobs%40iwinner-data-318822.iam.gserviceaccount.com"
+}
